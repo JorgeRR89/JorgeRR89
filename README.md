@@ -1,3 +1,15 @@
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://github.com/JorgeReyesR/JorgeReyesR/blob/main/assets/Neural.gif" width="100%"/>
+</p>
+
+<h1 align="center">👋 Hi, I’m <span style="color:#0078D7;">Jorge Reyes Rodríguez</span></h1>
+
+<h3 align="center">
+💡 Data Scientist | Engineer | Machine Learning Enthusiast | Data Analyst  
+🎓 MIT xPRO | TripleTen Certified | Turning Data into Real Decisions that Drive Results  
+</h3>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I’m <span style="color:#0078D7;">Jorge Reyes Rodríguez</span></h1>
 
