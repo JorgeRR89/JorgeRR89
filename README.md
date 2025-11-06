@@ -28,6 +28,7 @@ My work bridges engineering precision with data-driven strategy — turning numb
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
@@ -58,6 +59,15 @@ Forecasting hourly taxi demand at airports using LightGBM.
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRR89&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9f9f9f&icon_color=58A6FF" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRR89&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=9f9f9f" height="160px" />
+</p>
+
+---
+
 ### 🎓 Education
 - MIT xPRO — *Professional Certificate in Data Science & Analytics*  
 - TripleTen — *Data Science Certification (Machine Learning, NLP, Computer Vision)*  
@@ -81,6 +91,7 @@ Forecasting hourly taxi demand at airports using LightGBM.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JorgeRR89&style=flat-square&color=gray" alt="Profile Views"/>
 </p>
+
 
 
 ---
