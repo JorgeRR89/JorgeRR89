@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Neural.gif" alt="Neural Animated Banner" width="70%"/>
+  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Neural.gif" alt="Neural Animated Banner" width="50%"/>
 </p>
 
 <h1 align="center">Jorge Reyes Rodríguez</h1>
