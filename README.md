@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github.com/JorgeReyesR/JorgeReyesR/blob/main/assets/Neural.gif" width="100%"/>
+  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Neural.gif" alt="Neural Animated Banner" width="100%"/>
 </p>
 
 <!-- PROFILE HEADER -->
