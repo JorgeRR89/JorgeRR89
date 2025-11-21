@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Jurassic_nugget.gif" alt="Jurassic_nugget Animated Banner" width="60%"/>
+  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/No_internet_dino.gif" alt="No_internet_dino Animated Banner" width="35%"/>
 </p>
 
 <h1 align="center">Jorge Reyes Rodríguez</h1>
