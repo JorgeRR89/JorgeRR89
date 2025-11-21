@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/No_internet_dino_white.gif" alt="No_internet_dino_white Animated Banner" width="43%"/>
+  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Surfing.gif" alt="Surfing Animated Banner" width="77%"/>
 </p>
 
 <h1 align="center">Jorge Reyes Rodríguez</h1>
