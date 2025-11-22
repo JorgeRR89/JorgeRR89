@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/Elfo_dance.gif" alt="Elfo_dance Animated Banner" width="70%"/>
+  <img src="https://github.com/JorgeRR89/JorgeRR89/blob/main/assets/No_internet_dino_white.gif" alt="No_internet_dino_white_dance Animated Banner" width="70%"/>
 </p>
 
 <h1 align="center">Jorge Reyes Rodríguez</h1>
